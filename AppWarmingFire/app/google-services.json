@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628188374774",
+    "project_id": "app-warming-fire",
+    "storage_bucket": "app-warming-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628188374774:android:59f72403c3bd2a72b92ed7",
+        "android_client_info": {
+          "package_name": "com.example.appwarmingfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzUhK_E5gVMzVzIK9e_SeY05Mp3-JjYuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
